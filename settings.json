@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VNGVFFF.aternos.me",
+    "ip":"VNGVFFF.aternos.me",
     "port": 56696,
     "version": "",
     "try-creative": false
